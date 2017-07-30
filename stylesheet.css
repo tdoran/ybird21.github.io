@@ -25,6 +25,8 @@ background-color: linear-gradient(#FFEAFA, #FF90E4) ;
     }
 }
 
+.follow{ position:fixed; top:5%; right:5%; }
+
 .center-me
 {
 text-align:center;
