@@ -1,0 +1,86 @@
+<style>
+
+
+
+.s{}
+
+
+}
+
+body {
+
+background-color: linear-gradient(#FFEAFA, #FF90E4) ;
+
+}
+@media screen and (max-width: 2000px) and (min-width: 200px){
+    .background{
+
+        background-color: #ffeafa;
+        width: 100%;
+        height: 3000px;
+        background: linear-gradient(#FFEAFA, #FF90E4) ;
+
+    }
+}
+
+.circle{
+
+    margin-left: 60px;
+    width: 120px;
+    height: 242px;
+    background-color: yellow;
+    border-radius: 60px;
+    
+
+}
+
+.circle{
+
+    margin-left: 60px;
+    width: 120px;
+    height: 242px;
+    background-color: yellow;
+    border-radius: 60px;
+    
+
+}
+
+
+.tom{
+
+color: #61FF79;
+font-size: 200px;
+
+}
+{<a href="#"><img src="http://68.media.tumblr.com/f34b4481e9d4ed37bca748c7af88578b/tumblr_mtt504SkEk1qk1c2no1_1280.jpg" onClick="alert('hi');"/></a>}
+
+#hello{
+    box-shadow: 50px 50px 25px #555555;
+    border: 20px dashed pink;
+	position: absolute;
+	left: 900px;
+	bottom: 500px;
+	color: red;
+	margin: 20px;
+    width: 100px; 
+    height: 100px;    
+    background: #f00;
+    -webkit-animation: spin 8s infinite linear;
+}
+.circle:hover{ transform: translate(50px, 100px); }
+
+
+@-webkit-keyframes spin {
+    0%  {-webkit-transform: rotate(0deg);}
+    100% {-webkit-transform: rotate(360deg);}   
+}
+
+
+.blink_me {
+  animation: blinker 5s linear infinite;
+}
+
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
+</style>
