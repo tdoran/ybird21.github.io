@@ -109,6 +109,37 @@ font-size: 200px;
 .black-text{color: #181818;}
 .grey-text{color: #6F6F6F;}
 
+.inline { 
+display: inline-block; 
+border: 1px solid #AFFFD5; 
+margin:10px;
+}
+
+#container {
+margin-left:auto;
+margin-right:auto;
+width: 70%;
+}
+.small_pic img{
+width:100%;
+display:inline-block;
+min-height:100px;
+clear:both;
+}
+.large_pic img{
+float:right;
+width:100%;
+display:inline-block;
+min-height:100px;
+height: 30%;
+}
+
+.Fixed
+{
+    position: fixed;
+    top: 20px;
+}
+
 #hello{
     box-shadow: 50px 50px 25px #555555;
     border: 20px dashed pink;
