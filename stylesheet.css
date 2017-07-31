@@ -25,8 +25,14 @@ background-color: linear-gradient(#FFEAFA, #FF90E4) ;
     }
 }
 
+
 .subtitle-block{
     margin-top:200px;
+}
+
+.links-block{
+    margin-top:50px;
+
 }
 .block-left {
     height:60vh;
@@ -45,6 +51,11 @@ background-color: linear-gradient(#FFEAFA, #FF90E4) ;
 
 .follow{ position:fixed; top:5%; right:5%; }
 .follow2{ position:fixed; top:5%; right:30%;}
+
+.left {
+   float: left;
+   padding: 0 20px 20px 0;
+}
 
 .sub-title{
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
@@ -146,7 +157,39 @@ font-size: 20px;
     margin-top: 250px;
 }
 
-.black-text{color: #181818;}
+.text4{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+   
+}
+
+.img-block{
+    margin-left:100px;
+    height:60vh;
+}
+.img-block2{
+    margin-left:100px;
+    height:50vh;
+}
+.img-block3{
+    margin-left:100px;
+    height:80vh;
+}
+.img-block4{
+    margin-left:100px;
+    height:60vh;
+}
+
+.img-width{
+    width:500px;
+
+}
+
+.black-text{color: white; opacity:0.75}
 .grey-text{color: #6F6F6F;}
 
 .inline { 
