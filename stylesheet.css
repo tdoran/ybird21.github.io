@@ -43,7 +43,7 @@ background-color: linear-gradient(#FFEAFA, #FF90E4) ;
 .follow2{ position:fixed; top:5%; right:30%;}
 
 .sub-title{
-    font-family: 'Calibri';
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
     font-weight: bold;
     color: grey;
     margin-left: 25%;
@@ -71,7 +71,7 @@ display:block;
   }
 
 .title{
-font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 text-transform:uppercase;
 font-size: 14px;
 line-height: 14px;
@@ -116,14 +116,14 @@ font-size: 200px;
 }
 
 .text-sub{
-    font-family: Helvetica;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 color: #61FF79;
 font-size: 20px;
 
 }
 
 .text2{
-    font-family: "Josefin Sans";
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
     font-size: 150px;
     font-style: normal;
     font-variant: normal;
@@ -133,7 +133,7 @@ font-size: 20px;
 }
 
 .text3{
-    font-family: "Josefin Sans";
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
     font-size: 75px;
     font-style: normal;
     font-variant: normal;
