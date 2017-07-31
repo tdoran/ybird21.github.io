@@ -189,7 +189,7 @@ font-size: 20px;
 
 }
 
-.black-text{color: white; opacity:0.75}
+.black-text{color: red ; opacity:0.75; text-shadow: 2px 2px yellow;}
 .grey-text{color: #6F6F6F;}
 
 .inline { 
