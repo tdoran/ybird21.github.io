@@ -224,7 +224,7 @@ header a:active {
     display:flex;
     flex-direction: column;
     margin-top: 20%;
-    margin-left: 40p
+    margin-left: 40px;
 }
 
 .main-flex-name {
@@ -307,9 +307,10 @@ header a:active {
 }
 
 .intro-flex {
-    width: 100%;
+    width: auto;
     display: flex;
     flex-wrap: wrap;
+    margin: 0 50px
 }
 
 .intro-flex-text {
@@ -365,6 +366,7 @@ header a:active {
     margin-top: 5%;
     padding-bottom: 10%;
     background-color: #f7f7f7;
+    max-width: 100%;
     /*background-color: #4d4d4d;*/
 }
 
@@ -377,7 +379,7 @@ header a:active {
 .prog-flex-item {
     order: 1;
     flex: 1 1 50%;
-    margin: 20px
+    margin: 50px;
 }
 
 
@@ -404,6 +406,7 @@ header a:active {
     justify-content: space-between;
     flex-basis: 30%;
     flex-wrap: wrap;
+    margin: 0 50px;
 }
 
 .how-item{
@@ -431,9 +434,10 @@ header a:active {
 
 .fc-flex{
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     height: auto;
+    margin: 0 20px;
 }
 
 .fc-flex-item {
@@ -480,7 +484,7 @@ header a:active {
     order: 1;
     min-height: 45%;
     flex: 0 1 1;
-    margin: 10px;
+    margin: 30px;
     margin-bottom: 20px;
 }
 
