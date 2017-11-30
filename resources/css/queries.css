@@ -75,6 +75,10 @@ footer {
 /*----Small phones 0 to 480px----*/
 @media only screen and (max-width: 480px) {
     
+    html{
+        font-size: 14px;
+    }
+    
     footer {
         height: 200px;
     }
