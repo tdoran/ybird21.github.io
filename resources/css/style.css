@@ -389,6 +389,7 @@ header a:active {
 .section-second-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/programming2.jpg);
     background-size: cover;
+    background-color: #333;
     color: #fff;
     height: auto;
     background-attachment: fixed;
