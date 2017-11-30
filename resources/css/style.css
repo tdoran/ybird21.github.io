@@ -435,7 +435,7 @@ header a:active {
 
 .fc-flex-item {
     order: 1;
-    min-width: 400px;
+    min-width: 40%;
     height: 100%;
     /*widht: 400px;
     and no height value*/
