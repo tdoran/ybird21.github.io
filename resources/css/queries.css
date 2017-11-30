@@ -34,6 +34,15 @@
     .intro-flex-photo {
     max-width: 80%;
     }
+    
+    .flexbox {
+    flex-direction: column;
+    }
+
+    .flexbox-div {
+        margin: 10px;
+    }
+    
 }
 
 
@@ -79,7 +88,18 @@
     .intro-flex-photo {
     max-width: 80%;
     }
+    
+    .flexbox {
+    flex-direction: column;
+    }
+
+    .flexbox-div {
+        margin: 10px;
+    }
+    
+    
 }
+
 
 /*----Small phones 0 to 480px----*/
 @media only screen and (max-width: 480px) {
@@ -91,8 +111,18 @@
     footer {
         height: 200px;
     }
-}
 
-.intro-flex-photo {
-    max-width: 80%;
-}
+
+    .intro-flex-photo {
+        max-width: 80%;
+    }
+
+    .flexbox {
+        flex-direction: column;
+    }
+
+    .flexbox-div {
+        margin: 10px;
+    }
+    
+    }
