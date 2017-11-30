@@ -12,9 +12,9 @@
     height: auto;
     }
     
-    .intro-flex-photo {
+/*    .intro-flex-photo {
     max-width: 80%;
-    }
+    }*/
 
     
 }
@@ -32,9 +32,9 @@
         height: 150px;
     }*/
     
-    .intro-flex-photo {
+/*    .intro-flex-photo {
     max-width: 80%;
-    }
+    }*/
     
     .flexbox {
     flex-direction: column;
