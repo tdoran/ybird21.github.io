@@ -429,11 +429,15 @@ header a:active {
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
+    height: auto;
 }
 
 .fc-flex-item {
     order: 1;
-    width: 400px;
+    min-width: 400px;
+    height: 100%;
+    /*widht: 400px;
+    and no height value*/
     flex: 1 0 46%;
     padding: 40px;
     margin: 10px;
