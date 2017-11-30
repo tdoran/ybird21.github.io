@@ -27,9 +27,10 @@
     height: auto;
     }
 
-    footer {
-        height: 600px;
-    }
+    
+/*    footer {
+        height: 150px;
+    }*/
     
     .intro-flex-photo {
     max-width: 80%;
@@ -81,10 +82,10 @@
     .section-main{
     height: auto;
     }
-    footer {
-        height: 600px;
+    /*footer {
+        height: 200px;
     }
-
+*/
     .intro-flex-photo {
     max-width: 80%;
     }
@@ -108,9 +109,11 @@
         font-size: 14px;
     }
     
+/*
     footer {
         height: 200px;
     }
+*/
 
 
     .intro-flex-photo {
