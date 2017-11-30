@@ -83,6 +83,7 @@ h2{
 .long-copy {
     line-height: 150%;
     word-spacing: 2px;
+    text-align: justify;
 }
 
 /*----LINKS----*/
