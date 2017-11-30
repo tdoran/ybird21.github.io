@@ -239,7 +239,7 @@ header a:active {
 
 .big-header-text {
     font-size: 40px;
-    color: #999999;
+    color: #676767;
 }
 
 .big-header-highlight{
@@ -552,6 +552,10 @@ footer {
     padding: 50px;
 }
 
+footer li {
+    font-size: 200%;
+}
+
 footer p {
     color: #888;
     text-align: center;
@@ -561,13 +565,7 @@ footer p {
 
 .footer-nav {
     list-style: none;
-    float: left;
-}
-
-.social-links {
-    list-style: none;
     float: right;
-    font-size: 150%;
 }
 
 .footer-nav li,
@@ -582,7 +580,7 @@ footer p {
 }
 
 
-.footer-nav li a:link,
+/*.footer-nav li a:link,
 .footer-nav li a:visited,
 .social-links li a:link,
 .social-links li a:visited {
@@ -596,5 +594,22 @@ footer p {
 .social-links li a:hover,
 .social-links li a:active {
     color: #ddd;
+}*/
+
+/*color: #2ecc71;
+    text-decoration: none;
+    padding-bottom: 1px;
+    border: none;
 }
 
+.cw-link:hover,
+.cw-link:active{
+    color: #c0392b;
+    text-decoration: none;
+    padding-bottom: 1px;
+    border: none;
+}
+
+.gh-link:hover,
+.gh-link:active{
+    color: #f39c12;*/
