@@ -225,6 +225,7 @@ header a:active {
     flex-direction: column;
     margin-top: 20%;
     margin-left: 40px;
+    margin-right: 40px
 }
 
 .main-flex-name {
