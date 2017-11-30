@@ -554,6 +554,7 @@ header a:active {
 footer {
     background-color: #333; 
     padding: 50px;
+    height: auto;
 }
 
 footer li {

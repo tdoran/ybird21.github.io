@@ -23,6 +23,9 @@
     height: auto;
     }
 
+    footer {
+        height: 600px;
+    }
     
     
 }
@@ -63,11 +66,16 @@
 .section-main{
     height: auto;
     }
-
+footer {
+        height: 600px;
+    }
+    
 }
 
 /*----Small phones 0 to 480px----*/
 @media only screen and (max-width: 480px) {
     
-    
+    footer {
+        height: 200px;
+    }
 }
